@@ -209,14 +209,6 @@ Para prevenir abusos o evasiones:
   * Expulsar miembros
   * Banear miembros
 
----
-
-## 🤝 Contribuciones
-
-1. Fork del repositorio
-2. Crear una rama (`feature/...`)
-3. Commit de cambios
-4. Pull Request
 
 ---
 
