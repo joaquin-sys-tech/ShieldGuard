@@ -1,16 +1,19 @@
 # 🛡️ ShieldGuard
 
-
 <p align="center">
   <a href="https://shieldguard.app">
     <img src="https://img.shields.io/badge/Web-ShieldGuard-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/security-focused-red?style=for-the-badge" />
 </p>
 
-**ShieldGuard** es un bot de moderación avanzado para Discord enfocado en la protección contra raids, spam y acciones maliciosas dentro de servidores.
+<p align="center">
+  Protección avanzada para servidores de Discord contra raids, spam y amenazas en tiempo real.
+</p>
 
-Está diseñado para ser **ligero, configurable y automático**, permitiendo a los administradores mantener el control sin intervención constante.
 ---
+
 ## 🌐 Página web
 
 Visita la web oficial para más información y futuras funcionalidades:
